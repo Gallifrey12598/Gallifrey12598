@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Gallifrey12598
 - 👀 I’m interested in cloud based enviroments
-- 🌱 I’m currently learning kubernetes, k3s, docker, CI Pipeline.
-- 📫 How to reach me white_christopher98@outlook.com
+- 🌱 I’m currently learning ansible, headscale/tailscale, and scripting.
+- 📫 How to reach me. Ummmm if you don't know that already then IDK.
