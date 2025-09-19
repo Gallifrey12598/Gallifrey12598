@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Gallifrey12598
 - 👀 I’m interested in cloud based enviroments
-- 🌱 I’m currently learning ansible, headscale/tailscale, and scripting.
+- 🌱 I’m currently learning Ubuntu Linux administration. Both server and Desktop enviroments.
 - 📫 How to reach me. Ummmm if you don't know that already then IDK.
